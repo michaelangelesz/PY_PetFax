@@ -1,8 +1,8 @@
 Setting up Flask <br />
 PetFax: Activities Directory <br />
-[PetFax Part 1](https://github.com/michaelangelesz/PY_PetFax/edit/main/README.md#petfax-part-1) <br />
-[PetFax Part 2](https://github.com/michaelangelesz/PY_PetFax/edit/main/README.md#petfax-part-2) <br />
-[PetFax Part 3](https://github.com/michaelangelesz/PY_PetFax/edit/main/README.md#petfax-part-3) <br />
+[PetFax Part 1](https://github.com/michaelangelesz/PY_PetFax/blob/main/README.md#petfax-part-1) <br />
+[PetFax Part 2](https://github.com/michaelangelesz/PY_PetFax/blob/main/README.md#petfax-part-2) <br />
+[PetFax Part 3](https://github.com/michaelangelesz/PY_PetFax/blob/main/README.md#petfax-part-3) <br />
 
 
 # PetFax Part 1
