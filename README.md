@@ -1,10 +1,4 @@
-Sources for photos used: 
-
-- Dog: [Karseten Winegeart on Unsplash](https://unsplash.com/photos/5PVXkqt2s9k)
-- Cat: [Alvan Nee on Unsplash](https://unsplash.com/photos/ZCHj_2lJP00)
-- Rabbit: [Emiliano Vittoriosi on Unsplash](https://unsplash.com/photos/3FSBkX4yG80)
-
-# Activity (ppp-5-intro-to-web-development-with-python)
+# PetFax Part 1
 
 ## Activity: PetFax Introduction: Flask Installation
 We have been asked by a local animal shelter to create an application that shares fun animal facts alongside photos of the animals available for adoption. They hope this will be a fun way to get potential adoptees to engage with the shelter and find the animals loving new homes.
@@ -39,9 +33,16 @@ In terminal:
   (Reminder: To later disconnect from the virtual environment, you can use the `deactivate` command.)<br />
   
 __What your terminal commands should look like:__<br />
+
+Mac:
 ```
-python3 -m venv venv                
-. venv/bin/activate           
+python3 -m venv <env_name>                
+. <env_name>/bin/activate           
+```
+Windows:
+```
+python -m venv <env_name>
+.\<env_name>\Scripts\activate
 ```
 
 In terminal:
@@ -146,3 +147,15 @@ flask run --reload
 As we have just experienced, starting a basic Flask application is incredibly simple, fast, and lightweight. That is one of the biggest benefits of using a micro framework.
 
 Of course, such a small app isn't very useful, nor would it be very scalable to simply put all your routes on a single-entry file. In the next lesson, we will learn about some ways to better structure our application-and we will truly get started on PetFax!
+<hr />
+
+# PetFax Part 2
+
+<br /><hr />
+
+### Sources for photos used: 
+
+- Dog: [Karseten Winegeart on Unsplash](https://unsplash.com/photos/5PVXkqt2s9k)
+- Cat: [Alvan Nee on Unsplash](https://unsplash.com/photos/ZCHj_2lJP00)
+- Rabbit: [Emiliano Vittoriosi on Unsplash](https://unsplash.com/photos/3FSBkX4yG80)
+
